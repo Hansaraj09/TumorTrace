@@ -1,6 +1,6 @@
-Welcome to TumorTrace: Precision Segmentation for Brain Tumors.
+**Welcome to TumorTrace: Precision Segmentation for Brain Tumors**
 
-This reposioty levarges instance segmentation for Brain Tumor Detection.
+This repository leverages instance segmentation for Brain Tumor Detection.
 
 **What is instance segmentation??**
 
