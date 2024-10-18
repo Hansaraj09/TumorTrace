@@ -1,0 +1,14 @@
+names:
+- '0'
+- '1'
+- '2'
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: harish-vlasr
+  url: https://universe.roboflow.com/hari-d4xyf/harish-vlasr/dataset/5
+  version: 5
+  workspace: hari-d4xyf
+test: ../test/images
+train: ../train/images
+val: ../valid/images
